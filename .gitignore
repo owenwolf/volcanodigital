@@ -1,7 +1,7 @@
 # Ignore Drupal's file directory /web/setes/default/settings.php
-/web/sites/default/files/php/twig/
-/web/sites/default/files/css/
-/web/sites/default/files/js/
+/sites/default/files/php/twig/
+/sites/default/files/css/
+/sites/default/files/js/
 
 
 
